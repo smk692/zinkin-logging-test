@@ -56,5 +56,3 @@ curl http://localhost:8080/order/request
 단점
 - zipkin을 띄어야 하는 서버가 필요 
 - 오토스케일링 또는 elb에 붙은 서버마다 docker 각각 띄우는 미친짓은 안 좋음
-
-끝!# zinkin-logging-test
