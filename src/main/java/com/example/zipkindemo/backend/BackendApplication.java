@@ -72,7 +72,7 @@ public class BackendApplication {
     /*
     KafkaProducer 를 테스트 하기 전에 사용되는 테스트 코드입니다
     @Service
-    @Slf4j
+    @Slf4jㅎ
     static class BackendPaymentService {
         @SneakyThrows
         @NewSpan(name = "backendPayment")   // 새로운 Span 정보를 생성 함
